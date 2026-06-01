@@ -254,6 +254,8 @@ cd ~
 
 A localização no sistema de arquivos está estabelecida e a navegação entre diretórios está coberta. A seguir: criação, escrita e leitura — as operações realizadas centenas de vezes ao longo do curso.
 
+---
+
 ### Criação de diretório
 
 ```shell
